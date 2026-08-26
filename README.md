@@ -21,6 +21,15 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+# Schemi Database - Progettazione Miro
+
+Link al tabellone Miro: [Inserisci qui il link che hai copiato da Miro]
+
+## Progetti Realizzati:
+1. **E-commerce (Libreria)**: Tabelle `users`, `books`, `orders` (Relazioni One-to-Many).
+2. **Social Network**: Tabelle `users`, `posts`, `likes` (Relazioni One-to-Many e Many-to-Many).
+3. **Sito di Annunci**: Tabelle `users`, `categories`, `announcements` (Relazioni One-to-Many).
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
