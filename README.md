@@ -30,6 +30,10 @@ Link al tabellone Miro: [Inserisci qui il link che hai copiato da Miro]
 2. **Social Network**: Tabelle `users`, `posts`, `likes` (Relazioni One-to-Many e Many-to-Many).
 3. **Sito di Annunci**: Tabelle `users`, `categories`, `announcements` (Relazioni One-to-Many).
 
+# Schemi Database (Miro)
+
+![Schemi Database](miro.jpg)
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
